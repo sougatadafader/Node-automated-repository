@@ -1,0 +1,16 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "Node CRUD API for relational database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sougata Dafader",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9",
+    "uuid": "^3.3.2"
+  }
+}
